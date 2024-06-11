@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zp5j3LB47xOTtKCBDbEcj4MEAkAFK0wGvG6Ve1bTFzI4LIM1jyJe2OZPp1yYHg01tZ+qqCxcsTnleatWcBUudQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\XimaX\\Downloads\\series\\dio-dotnet-poo-lab-2-master\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\XimaX\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\XimaX\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\XimaX\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\XimaX\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
